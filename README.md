@@ -45,7 +45,7 @@ pip install -r requirements.txt
     To start the app, run:
 
     ```bash
-    streamlit run app.py
+    streamlit run weather_assistant.py
     ```
 
     This will open the app in your browser.
